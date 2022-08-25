@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- <a href="https://github.com/eatonl/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eatonl&repo=eatonl" />
+</a> -->
 
 ![eatonl's github stats](https://github-readme-stats.vercel.app/api?username=eatonl&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=calm)
 <!-- ![eatonl's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eatonl&layout=compact&theme=calm) -->
