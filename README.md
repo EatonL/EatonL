@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eatonl&repo=eatonl" />
 </a> -->
 
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=EatonL.EatonL.github.io" /> have visited my homepage </div>
+<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=EatonL.EatonL" /> have visited my homepage </div>
 
 
 
